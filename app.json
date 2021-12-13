@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vm or vl",
+  "description": "vm or vl",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/phqan5rhsam/nginx-Manual",
-  "repository": "https://github.com/phqan5rhsam/nginx-Manual",
+  "website": "https://github.com/phqan5rhsam/dvasxw",
+  "repository": "https://github.com/phqan5rhsam/dvasxw",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
